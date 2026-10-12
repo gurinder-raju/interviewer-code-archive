@@ -6,10 +6,10 @@ These are coding problems I used as a reference when interviewing software engin
 
 | Category | Problems |
 |---|---|
-| [Dynamic programming](dynamic-programming/) | Decode Ways, Edit Distance (Dictionary Distance), Longest Common Subsequence, Optimal Strategy for a Game (Max Winning Sum), Maximum Vacation Days, Palindrome Partitioning |
-| [Backtracking](backtracking/) | N-Queens, Graph Coloring, String Permutations |
+| [Dynamic programming](dynamic-programming/) | Decode Ways, Edit Distance (Dictionary Distance), Longest Common Subsequence, Optimal Strategy for a Game (Max Winning Sum), Maximum Vacation Days, Minimum Path Sum, Palindrome Partitioning |
+| [Backtracking](backtracking/) | N-Queens, Graph Coloring, String Permutations, Phone Keypad Letter Combinations |
 | [Graphs and search](graphs-and-search/) | Depth-First Search, Number of Islands, Word Ladder |
-| [Arrays and strings](arrays-and-strings/) | Add One (big integer stored as a digit array) |
+| [Arrays and strings](arrays-and-strings/) | Add One (big integer stored as a digit array), Decimal to Binary |
 
 Each `.cpp` file is self-contained with its own `main`, so you can compile and run it directly:
 
