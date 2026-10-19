@@ -1,5 +1,7 @@
 # interviewer-code-archive
 
+*Preserved as an artifact of the handwritten-code era.*
+
 These are coding problems I used as a reference when interviewing software engineering candidates. I worked through them as I moved from software engineer to software engineering manager, and later to senior software engineering manager. Before asking a problem in an interview, I coded it myself in C++ to understand it better: where the tricky parts were, the different ways to approach it, and what a strong answer looks like.
 
 ## Problems by category
